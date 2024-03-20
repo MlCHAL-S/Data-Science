@@ -24,8 +24,8 @@ As of now, I am a beginner in the field of data science, and my learning journey
 
 ## How to Use This Repository
 
-- **Documentation**: You can find my notes, summaries, and insights from the Data Science Course in the documentation folder.
-- **Code**: Any code snippets, scripts, or projects related to the concepts covered in the book will be available in the code folder.
+- **Documentation**: You can find my notes, summaries, and insights from the Data Science Course in the project folder.
+- **Code**: Any code snippets will be available in the code folder.
 
 ## Acknowledgments
 
