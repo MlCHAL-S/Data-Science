@@ -10,10 +10,10 @@ This repository is dedicated to my journey of learning data science using the re
 
 ## About the Silky Coders Data Science Book
 
-The "Silky Coders Data Science Book" is a resource which covers various topics in data science, including:
+The resource covers various topics in data science, including:
 
 - Pandas, NumPy
-- various libraries for plotting data such as Matplotlib and Seaborn
+- Various libraries for plotting data such as Matplotlib and Seaborn
 - Data Visualization
 - Data Wrangling
 - Statistical Analysis
@@ -24,7 +24,7 @@ As of now, I am a beginner in the field of data science, and my learning journey
 
 ## How to Use This Repository
 
-- **Documentation**: You can find my notes, summaries, and insights from the Silky Coders Data Science Book in the documentation folder.
+- **Documentation**: You can find my notes, summaries, and insights from the Data Science Course in the documentation folder.
 - **Code**: Any code snippets, scripts, or projects related to the concepts covered in the book will be available in the code folder.
 
 ## Acknowledgments
